@@ -22,6 +22,10 @@
 
 ## Common Sense
 
+### Machanism
+
+![machanism](https://raw.githubusercontent.com/gztchan/git-references/master/machanism.png)
+
 ### Basics
 
 **Areas**
