@@ -35,8 +35,6 @@
 - Repository (local/remote)
 - Remote
 
-
-
 ### Config
 
 | command                                  | description        |
@@ -46,6 +44,20 @@
 | git config user.name <new name>          | 修改 repo user.name  |
 | git config user.email <new email>        | 修改 repo user.email |
 
+### Commit message
+
+- "feat"
+- "fix"
+- "docs"
+- "style"
+- "refactor"
+- "perf"
+- "test"
+- "chore"
+- "revert"
+- "deps"
+- "merge"
+- "release"
 
 
 ## Workflow
