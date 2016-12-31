@@ -46,6 +46,8 @@
 
 ### Commit message
 
+**type**
+
 - "feat"
 - "fix"
 - "docs"
@@ -58,7 +60,6 @@
 - "deps"
 - "merge"
 - "release"
-
 
 ## Workflow
 
