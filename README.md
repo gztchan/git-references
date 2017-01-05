@@ -119,6 +119,9 @@
 | git revert HEAD~                         | 撤销前前一次 commit                            |
 | git revert HEAD~n                        | 撤销前 n 次 commit                           |
 | git revert commit <commit-id>            | 撤销指定 commit                              |
+|                                          |                                          |
+| git clean -n                             | show what will be deleted                   |
+| git clean -f                             | Remove untracked files from the working tree |                             |
 | ...                                      |                                          |
 
 
